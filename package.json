@@ -2,7 +2,7 @@
   "name": "goldcoin-series-webpage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dobe4ever.github.io/my-app",
+  "homepage": "https://github.com/dobe4ever/Goldcoin-series-webpage",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -20,8 +20,6 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
