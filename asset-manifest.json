@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dobe4ever/Goldcoin-series-webpage/static/css/main.5f5c056d.css",
+    "main.js": "/dobe4ever/Goldcoin-series-webpage/static/js/main.69cf69af.js",
+    "index.html": "/dobe4ever/Goldcoin-series-webpage/index.html",
+    "main.5f5c056d.css.map": "/dobe4ever/Goldcoin-series-webpage/static/css/main.5f5c056d.css.map",
+    "main.69cf69af.js.map": "/dobe4ever/Goldcoin-series-webpage/static/js/main.69cf69af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5c056d.css",
+    "static/js/main.69cf69af.js"
+  ]
+}
